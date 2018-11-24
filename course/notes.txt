@@ -1,0 +1,9 @@
+- Setting up a JavaScript development environment!!
+- Options -> Decision -> Implementation
+- Inception -> Shoe Horning -> Integration
+
+-- Editors
+- Spaces vs tabs, line endings
+- editorconfig?
+- integrated teriminal!
+- recommends webstorm but uses vs code in the course
