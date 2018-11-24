@@ -5,5 +5,5 @@
 -- Editors
 - Spaces vs tabs, line endings
 - editorconfig?
-- integrated teriminal!
+- integrated terminal!
 - recommends webstorm but uses vs code in the course
