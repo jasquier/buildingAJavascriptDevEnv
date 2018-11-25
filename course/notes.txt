@@ -7,3 +7,5 @@
 - editorconfig?
 - integrated terminal!
 - recommends webstorm but uses vs code in the course
+
+-- Web Server = Express
