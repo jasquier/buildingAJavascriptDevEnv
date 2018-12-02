@@ -13,6 +13,7 @@
   "author": "Cory House",
   "license": "MIT",
   "dependencies": {
+    "@types/chalk": "^2.2.0",
     "whatwg-fetch": "1.0.0"
   },
   "devDependencies": {
