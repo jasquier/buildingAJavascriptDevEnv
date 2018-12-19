@@ -1,14 +1,11 @@
-- Setting up a JavaScript development environment!!
-- Options -> Decision -> Implementation
-- Inception -> Shoe Horning -> Integration
-
--- Editors
-- Spaces vs tabs, line endings
-- editorconfig?
-- integrated terminal!
-- recommends webstorm but uses vs code in the course
-
--- Web Server = Express
-
--- Do a TypeScript course
--- Look into Elm
+Setting up a JavaScript development environment!!
+Options -> Decision -> Implementation
+Inception -> Shoe Horning -> Integration
+Editors
+Spaces vs tabs, line endings
+editorconfig?
+integrated terminal!
+recommends webstorm but uses vs code in the course
+Web Server = Express
+Do a TypeScript course
+Look into Elm
