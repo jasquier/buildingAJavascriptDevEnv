@@ -9,3 +9,22 @@ recommends webstorm but uses vs code in the course
 Web Server = Express
 Do a TypeScript course
 Look into Elm
+Browsers dont understand CommonJS
+What module format should you choose?
+  There are five...
+  IIFE, Async Module Definition, Common JS, Universal Module Definition, and ES6 Modules
+Nodes you can continue to use common JS
+But we use es6 modules now and in future dev should as well
+ES6 aka ES2015, all new versions will be named after release year
+Early bundler was browserify
+Webpack is popular now
+Webpack includes a development server
+Look into rollup as a webpack bundling alternative
+A new bundler JSPM also uses rollup
+Why choose webpack?
+  Bundles and generates more than js like css and fonts
+  Comes with dev web server
+  Allows bundle splitting
+  Hot module reloading
+  Webpack 2 has tree shaking
+We can use webpack for more environments than just the web
