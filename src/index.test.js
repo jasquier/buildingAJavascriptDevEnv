@@ -8,6 +8,8 @@ describe('Our first test', () => {
   });
 });
 
+// added to test travis monitor cli
+
 describe('index.html', () => {
   it('should say hello', (done) => {
     const index = fs.readFileSync('./src/index.html', "utf-8");
