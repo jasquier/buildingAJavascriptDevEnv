@@ -1,5 +1,6 @@
 import path from 'path';
 
+// TODO learn webpack
 export default {
   debug: true,
   devtool: 'inline-source-map',
