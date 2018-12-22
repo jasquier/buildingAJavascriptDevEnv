@@ -16,6 +16,7 @@
   "author": "Cory House",
   "license": "MIT",
   "dependencies": {
+    "opn": "^5.4.0",
     "whatwg-fetch": "1.0.0"
   },
   "devDependencies": {
@@ -46,7 +47,6 @@
     "npm-run-all": "^3.1.1",
     "nsp": "^3.2.1",
     "numeral": "1.5.3",
-    "open": "0.0.5",
     "rimraf": "2.5.4",
     "style-loader": "0.13.1",
     "webpack": "1.13.2",
