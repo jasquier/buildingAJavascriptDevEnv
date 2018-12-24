@@ -28,3 +28,12 @@ Why choose webpack?
   Hot module reloading
   Webpack 2 has tree shaking
 We can use webpack for more environments than just the web
+Look into using polyfill.io's cdn
+Learn JSON server and JSON Schema Faker
+JSON Schema faker is gonna be awesome for max length chars and min length
+faker.js chance.js and randexp.js
+Steps to mock an api
+  Declare our schema, what does the service layer provide / require?
+  Generate random data
+  Server data via our mock api
+JSON Schema fake io for testing you schema
