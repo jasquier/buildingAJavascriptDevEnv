@@ -37,3 +37,5 @@ Steps to mock an api
   Generate random data
   Server data via our mock api
 JSON Schema fake io for testing you schema
+Recommends a demo app to demonstrate using your js dev env
+Dont' generate code, generate JSON / other configs and have your code use that server data.
