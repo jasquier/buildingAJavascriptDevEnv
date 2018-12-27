@@ -63,3 +63,5 @@ typings/
 # editor settings files
 .vscode/
 
+# project build output
+dist/
